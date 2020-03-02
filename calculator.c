@@ -80,5 +80,5 @@ int main(void)
         else printf("\nTrouble with operation. Please, use operations from list: (+ - / * ! ^).\n");
         printf("\nTry again? Type any symbol to continue and 'q' for exit.");
         scanf(" %c", &c);
-    } while (c != 'q');    // program working status
+    } while (c != 'q');    // program working status Hello
 }
